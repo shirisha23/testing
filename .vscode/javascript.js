@@ -1,5 +1,5 @@
-document.write("chamvaran"+" "+"ammu");
-let a=["cham","champion"];
+document.write("haha"+" "+"ammu");
+let a=["haha","champion"];
 a.push(2022);
 let b=[1,8,3,2,9,0,8];
 let c=[7,6,5];
